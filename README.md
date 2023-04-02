@@ -1,1 +1,1 @@
-not transformer as in autobots, unfortunately
+Midpoint transformation for polygons.
